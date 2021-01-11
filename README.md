@@ -7,3 +7,7 @@ Aby repozytiorium stało się obrazem, który będzie zawierał R wraz z określ
 
 
 https://mybinder.org/v2/gh/quintala/wirds-2021-binder/main?urlpath=Rstudio
+
+#działa
+https://mybinder.org/v2/gh/DepartmentOfStatisticsPUE/wirds-2021-binder/main?urlpath=rstudio 
+
